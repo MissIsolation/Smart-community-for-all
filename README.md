@@ -1,2 +1,9 @@
 # Smart-community-for-all
 This project will take each resident as the node of the urban neural network, and establish a platform for the release, processing, feedback, information sharing and data collection and analysis of residents' needs based on the map of the city. It aims to quickly solve practical problems in residents' lives, realize information sharing, tap residents' needs, and provide data and decision support for smart city construction.
+
+Residents can select event classification on this platform, and publish problems in daily life through positioning, pictures, texts, video and other ways. The background management personnel will review and inform relevant departments to solve the problems, and follow up the processing situation of this event in real time and give feedback. The approved events can be displayed in the map, and each user can see what problems have appeared in his or her surroundings and what stage these problems have been dealt with. They will be presented in the form of locus based on the map. If you are interested, you can click into the event to view details, and the interactive mode of intuitive and clear information will be clear.
+
+Background managers can get real-time problems reported by residents through the Web terminal, conduct audit, directly notify and contact various departments to solve, and give real-time feedback to residents.
+
+Data analysis and processing personnel through the data analysis module, with events as node, combined with the geographical information, the analysis of the data processing, get a map based visual view, where the most vulnerable, what type of problem, where most people, the city should intensify the building of which on the one hand, etc., to provide data and decision making for urban development and construction, coordinate the allocation of resources.
+
