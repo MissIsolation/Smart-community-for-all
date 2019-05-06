@@ -1,0 +1,2 @@
+# Smart-community-for-all
+This project will take each resident as the node of the urban neural network, and establish a platform for the release, processing, feedback, information sharing and data collection and analysis of residents' needs based on the map of the city. It aims to quickly solve practical problems in residents' lives, realize information sharing, tap residents' needs, and provide data and decision support for smart city construction.
